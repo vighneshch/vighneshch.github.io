@@ -1,14 +1,6 @@
-#profile_img: assets/img/profile.webp
-icon_img: assets/img/icon.webp
-
-name: "Vighnesh Challa"
-job: "Data Scientist"
-
-phone_number: +91 - 7845356123
-address: Hyderabad, India
-email: challavighnesh@hotmail.co.in
-linkedin_username: vighneshchalla
-github_username: vighneshch
-remote_theme: byanko55/jekyll-professional-resume
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: "Vighnesh Challa's Portfolio"
+description: Data Science Projects

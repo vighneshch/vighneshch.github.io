@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: "Vighnesh Challa's Portfolio"
-description: Data Science Projects
+title: "Vighnesh Challa"
+description: Welcome to my Data Science Portfolio, where data-driven insights meet real-world solutions. Explore a collection of impactful projects showcasing the power of machine learning, deep learning and artificial intelligence across various domains.

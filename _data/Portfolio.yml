@@ -1,11 +1,12 @@
-subject: Project Portfolio
-listing-order: 1
+subject: Projects
+listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title:  "Word Embeddings from scratch using CBOW([https://github.com/vighneshch/project_portfolio/tree/main/cbow_word_embeddings_from_scratch](https://github.com/vighneshch/project_portfolio/tree/main/cbow_word_embeddings_from_scratch))
+  - title: "Word Embeddings from scratch using CBOW"
     description: 
       This project aimed to implement the Continuous Bag of Words (CBOW) method for generating
       word embeddings using PyTorch. The primary objective was to understand how to create dense
       representations of words that encode semantic relationships, which could be applied in various
-      Natural Language Processing (NLP) tasks
-      - "Technology Used: Python,Pytoech,Torchtext,Git"
+      Natural Language Processing (NLP) tasks.
+      - "Technology Used: Python,Git,Pytorch,Torchtext"
+    

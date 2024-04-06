@@ -4,6 +4,8 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Word Embeddings from scratch using CBOW"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
+      - This project aimed to implement the Continuous Bag of Words (CBOW) method for generating
+        word embeddings using PyTorch. The primary objective was to understand how to create dense
+        representations of words that encode semantic relationships, which could be applied in various
+        Natural Language Processing (NLP) tasks
       - "Technology Used: Python,Git,Pytorch,torchtext"

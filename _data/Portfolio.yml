@@ -8,5 +8,5 @@ contents:
         word embeddings using PyTorch. The primary objective was to understand how to create dense
         representations of words that encode semantic relationships, which could be applied in various
         Natural Language Processing (NLP) tasks
-      - **Learnings**  
+      - Learnings  
       - "Technology Used: Python,Git,Pytorch,torchtext"

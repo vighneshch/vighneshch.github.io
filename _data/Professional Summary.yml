@@ -1,5 +1,6 @@
 subject : Professional Summary
 listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
 contents:
     - title: Farvard University, PhD in Computer Science
     description:

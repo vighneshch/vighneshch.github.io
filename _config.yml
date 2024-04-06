@@ -1,6 +1,6 @@
 title: Vighnesh Challa
 description: Dive into my Data Science portfolio featuring cutting-edge Deep Learning and NLP projects.
-show_downloads: true
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-cayman
 
